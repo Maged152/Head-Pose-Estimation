@@ -12,4 +12,7 @@
 
 ![](./outputimg1.jpg)
 
-![](./outpy.avi)
+
+
+https://user-images.githubusercontent.com/100991836/173145546-87e41cea-e639-4102-af05-1e933ab3e3b0.mp4
+
