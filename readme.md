@@ -13,7 +13,7 @@
 ![](./outputimg1.jpg)
 
 
-![](./outpy.mp4)
+![video](./outpy.mp4)
 
 
 
