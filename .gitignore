@@ -1,5 +1,4 @@
 data/AFLW2000
-shape_predictor_68_face_landmarks.dat
 pitch_model.pkl
 roll_model.pkl
 yaw_model.pkl
