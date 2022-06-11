@@ -10,7 +10,6 @@
 
 ![](./outputimg2.jpg)  ![](./outputimg3.jpg) 
 
-![](./outputimg1.jpg)
 
 
 ![video](./outpy.mp4)
