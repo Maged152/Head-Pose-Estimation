@@ -8,9 +8,9 @@
 
 ### Here are some results
 
-![](./outputimg2.jpg)  ![](./outputimg3.jpg) 
+![](./out1.jpg)  ![](./out2.jpg) 
 
-![](./result.jpg)
+![](./result.png)
 
 ![video](./outpy.mp4)
 
