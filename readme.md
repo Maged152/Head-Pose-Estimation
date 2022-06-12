@@ -12,7 +12,6 @@
 
 ![](./result.png)
 
-![video](./outpy.mp4)
 
 
-
+![outpy2](https://user-images.githubusercontent.com/100991836/173254686-a929ffde-7159-44f3-a9fd-97ec00e6da42.gif)
